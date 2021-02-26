@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 0.5rem;
+  height: 10px;
+  width: 80%;
+  border: 2px solid orchid;
+  margin: 10px auto;
+}
+
+.outputDiv {
+  margin: 1rem auto;
+  font-size: 1.2em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border: 1px solid blueviolet;
+  width: 80%;
+  padding: 0.5rem;
+  min-height: 10px;
+}
