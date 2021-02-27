@@ -79,7 +79,7 @@ export default function App() {
       <h4>Meaning:</h4>
       <div className="outputDiv">{currentState}</div>
 
-      <h2>Select form the following emojis </h2>
+      <h2>Select from the following emojis </h2>
       {listOfEmojis.map((emoji) => {
         return (
           <span
