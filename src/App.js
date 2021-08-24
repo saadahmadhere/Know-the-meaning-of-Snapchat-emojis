@@ -65,7 +65,12 @@ export default function App() {
   function changeHandler(event) {
     var userInput = event.target.value;
     var output = emojipedia[userInput];
+
+    if (output === undefined){
+      setCurrentState("Emoji not found")
+    }else{
     setCurrentState(output);
+    }
   }
 
   function clickHandler(emoji) {
