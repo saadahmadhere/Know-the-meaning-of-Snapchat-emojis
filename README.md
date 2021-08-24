@@ -14,4 +14,4 @@ Created with CodeSandbox
 
 
 ## Use !!
-This app Will show Meaning of every emoji you come across while using snapchat. 
+This app will show the meaning of every emoji you come across while using snapchat. 
